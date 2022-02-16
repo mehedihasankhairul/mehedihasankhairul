@@ -1,7 +1,7 @@
 ### Hi there, I'm  [Mehedi Hasan Khairul][website]👋
 
 ## JavaScript lover 🥰!
-- 🌱 I’m currently learning MERN Stack 
+- 🌱 I’m currently learning Next.js
 - 🥅 2021 Goals: React, Node, Mongo, Next.js, Express
 - ⚡ I love to Explore New Technology
 
