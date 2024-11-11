@@ -19,13 +19,17 @@ Explore my work and projects on my personal portfolio:
 ---
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Code-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Code-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Tools-Git-F05032?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Tools-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/Tools-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
 
 ## &#x270d; Blog & Writing
 
