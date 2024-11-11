@@ -14,7 +14,7 @@ Welcome to my GitHub! I’m a self-taught developer with a love for creating bea
 
 ### 🌐 Portfolio
 Explore my work and projects on my personal portfolio:  
-**[mhkhairul-40e95.web.app](https://mhkhairul-40e95.web.app/)**
+**[Website](https://mhkhairul-40e95.web.app/)**
 
 ---
 
@@ -25,9 +25,7 @@ Explore my work and projects on my personal portfolio:
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Blog & Writing
 
@@ -54,8 +52,8 @@ Apart from coding, I also maintain a blog where I share insights, tutorials, and
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasankhairul&repo=Image-Gallery-Ollyo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/mehedihasankhairul/another-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasankhairul&repo=another-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/mehedihasankhairul/invoice-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasankhairul&repo=invoice-generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
