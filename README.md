@@ -50,8 +50,8 @@ Apart from coding, I also maintain a blog where I share insights, tutorials, and
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/mehedihasankhairul/your-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasankhairul&repo=your-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/mehedihasankhairul/Image-Gallery-Ollyo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasankhairul&repo=Image-Gallery-Ollyo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/mehedihasankhairul/another-project">
