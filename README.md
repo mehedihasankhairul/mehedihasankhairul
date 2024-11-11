@@ -18,43 +18,46 @@ Explore my work and projects on my personal portfolio:
 
 ---
 
-### 💼 Skills & Tools
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
-<p>
-  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> **JavaScript**
-  <br>
-  <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> **React**
-  <br>
-  <img alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> **Next.js**
-  <br>
-  <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> **Node.js**
-  <br>
-  <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> **MongoDB**
-  <br>
-  <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> **TypeScript**
-  <br>
-  <img alt="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> **Tailwind CSS**
-  <br>
-  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> **Git**
-  <br>
-  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> **GitHub**
-  <br>
-  <img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> **Visual Studio Code**
-  <br>
-  <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> **HTML5**
-  <br>
-  <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> **CSS3**
-  <br>
-  <img alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> **Sass**
-</p>
+## &#x270d; Blog & Writing
 
----
+Apart from coding, I also maintain a blog where I share insights, tutorials, and articles on web development. You can check out my articles on [Medium](https://medium.com/@mhkhairul78) and [Dev.to](https://dev.to/mhkhairul).
 
-### 📊 GitHub Stats
+<!-- BLOG-POST-LIST:START -->
+- [Node.js: The Magic of Servers](https://bdit.community/t/node-js-the-magic-of-servers/4394?u=imehedi)
+- [How to Get Started with TypeScript](https://medium.com/@mhkhairul78/how-to-get-started-with-typescript)
+- [Exploring the Power of React Hooks](https://medium.com/@mhkhairul78/exploring-the-power-of-react-hooks)
+<!-- BLOG-POST-LIST:END -->
 
-<img width="550px" alt="Mehedi Hasan Khairul's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=mehedihasankhairul&show_icons=true"/>
+## &#x1f4c8; GitHub Stats
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasankhairul&card_width=550)](https://github.com/mehedihasankhairul/mehedihasankhairul)
+<a href="https://github.com/mehedihasankhairul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasankhairul&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/mehedihasankhairul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihasankhairul&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mehedi's GitHub Stats" />
+</a>
+
+## 🚀 Featured Projects
+
+<a href="https://github.com/mehedihasankhairul/your-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasankhairul&repo=your-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/mehedihasankhairul/another-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasankhairul&repo=another-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 ---
 
