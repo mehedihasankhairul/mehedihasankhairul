@@ -13,21 +13,23 @@ Welcome to my GitHub! I’m a self-taught developer with a love for creating bea
 - 🔥 **Passionate About**: JavaScript, clean code, and discovering the latest web development trends.
 
 ### 🌐 Portfolio
-Explore my work and projects on my personal portfolio:  
-**[Website](https://mhkhairul-40e95.web.app/)**
+Explore my work and projects on my personal portfolio:  **[Website](https://mhkhairul-40e95.web.app/)**
 
 ---
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Code-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Code-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Tools-Git-F05032?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Tools-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![](https://img.shields.io/badge/Tools-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=plastic&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
