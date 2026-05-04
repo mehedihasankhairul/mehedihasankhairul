@@ -95,6 +95,22 @@
 
 ---
 
+## 🐍 Contribution Snake — Watch It Eat!
+
+<div align="center">
+
+> *Every green square is XP earned. The snake is always hungry...*
+
+![snake gif](https://github.com/mehedihasankhairul/mehedihasankhairul/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> 💡 **Setup tip:** Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to auto-generate this snake animation from your contributions!
+
+---
+
+---
+
 ## 📊 Player Stats — GitHub Dashboard
 
 <div align="center">
@@ -104,9 +120,7 @@
 
 <br/>
 
-<a href="https://github.com/mehedihasankhairul">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedihasankhairul&show_icons=true&count_private=true&title_color=FFFF55&text_color=c9cacc&icon_color=5D9E3A&bg_color=0d1117&border_color=5D9E3A&cache_seconds=1800" alt="Mehedi's GitHub Stats" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mehedihasankhairul&theme=dark&background=0d1117&border=5D9E3A&ring=FFFF55&fire=FF6600&currStreakLabel=FFFF55&sideLabels=5D9E3A&dates=888888&stroke=5D9E3A)](https://github.com/mehedihasankhairul)
 
 
 <a href="https://github.com/mehedihasankhairul">
@@ -121,19 +135,6 @@
 
 ---
 
-## 🐍 Contribution Snake — Watch It Eat!
-
-<div align="center">
-
-> *Every green square is XP earned. The snake is always hungry...*
-
-![snake gif](https://github.com/mehedihasankhairul/mehedihasankhairul/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> 💡 **Setup tip:** Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to auto-generate this snake animation from your contributions!
-
----
 
 ## 🏰 Featured Builds — My Best Creations
 
