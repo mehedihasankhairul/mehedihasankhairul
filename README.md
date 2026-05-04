@@ -105,13 +105,13 @@
 <br/>
 
 <a href="https://github.com/mehedihasankhairul">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedihasankhairul&show_icons=true&line_height=27&count_private=true&title_color=FFFF55&text_color=c9cacc&icon_color=5D9E3A&bg_color=1d1f21&border_color=5D9E3A&border_radius=0" alt="Mehedi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedihasankhairul&show_icons=true&count_private=true&title_color=FFFF55&text_color=c9cacc&icon_color=5D9E3A&bg_color=0d1117&border_color=5D9E3A&cache_seconds=1800" alt="Mehedi's GitHub Stats" />
 </a>
+
 
 <a href="https://github.com/mehedihasankhairul">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasankhairul&hide=php,html&title_color=FFFF55&text_color=c9cacc&icon_color=5D9E3A&bg_color=1d1f21&langs_count=5&border_color=5D9E3A&border_radius=0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasankhairul&hide=php,html&title_color=FFFF55&text_color=c9cacc&icon_color=5D9E3A&bg_color=0d1117&langs_count=5&border_color=5D9E3A&layout=compact&cache_seconds=1800" />
 </a>
-
 <br/>
 
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=8B5E3C&height=4)
